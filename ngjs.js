@@ -1,0 +1,1 @@
+angular.module("notesApp",[]).controller("MainCtrl",[function(){this.notes=[{id:1,label:"First Note",done:!1},{id:2,label:"Second Note",done:!1},{id:3,label:"Done Note",done:!0},{id:4,label:"Last Note",done:!1}]}]);
